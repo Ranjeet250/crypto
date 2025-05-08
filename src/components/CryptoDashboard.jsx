@@ -4,7 +4,7 @@ import {
   fetchAssets,
   fetchAssetChart,
   updateAssets,
-} from "../store/CryptoSlice";
+} from "../Store/CryptoSlice";
 import MiniChart from "./Minicharts";
 
 const CryptoDashboard = () => {
